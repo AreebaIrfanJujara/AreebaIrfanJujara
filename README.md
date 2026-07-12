@@ -1,8 +1,9 @@
-# <p align="center">Areeba Irfan Jujara | Robotics Software Engineer (In Training)</p>
+# Areeba Irfan Jujara | Robotics Software Engineer (In Training)
 
-<p align="center">
-  <img src="https://demolab.com.+❤️" alt="Typing SVG" />
-</p>
+> [!TIP]
+> ### ⚡ Core Philosophy & Life Motto
+> **"As long as the heart beats, there is no reason to give up."**  
+> _Committed to technical precision, continuous learning, and collaborative growth._
 
 ---
 
@@ -15,29 +16,28 @@ I have a deep passion for collaborative work and hands-on learning. I am activel
 
 ### 🛠️ Technical Domain & Areas of Focus
 
-```👁️‍🗨️
-💻 Software Core       -->  [ Python ]  |  [ C++ (OOP / STL) ]  |  [ Linux Systems ]
-🧠 Intelligence Systems -->  [ Machine Learning ]  |  [ Computer Vision ]  |  [ Data Structures ]
-🤖 Robotics Engineering -->  [ Autonomous Systems ] |  [ Hardware Integration ] |  [ Embedded Logic ]
-🤝 Collaboration & Growth->  [ Team Projects ]  |  [ Mentorship & Learning ] |  [ Serving Communities ]
-```
+> [!NOTE]
+> **💻 Software Core**  
+> `Python` | `C++ (OOP / STL)` | `Linux Systems` | `Data Structures & Algorithms`
+
+> [!IMPORTANT]
+> **🧠 Intelligence Systems**  
+> `Machine Learning` | `Computer Vision (OpenCV)` | `Deep Learning Neural Networks`
+
+> [!CAUTION]
+> **🤖 Robotics Engineering**  
+> `Autonomous Systems` | `Hardware Integration` | `Embedded Logic` | `Systems Engineering`
+
+> [!TIP]
+> **🤝 Collaboration & Growth**  
+> `Team Projects` | `Mentorship Program Engagement` | `Open Source & Community Service`
 
 ---
 
 ### 📬 Professional Connections
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jujaraareeba@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+* 💼 **Connect with me on LinkedIn:** [Click here to view my LinkedIn Profile](https://linkedin.com)
+* 📧 **Send me a direct email:** [Click here to drop a message](mailto:jujaraareeba@gmail.com)
 
-<p align="center">
-  <i>"Committed to technical precision, continuous learning, and collaborative growth."</i>
-</p>
 
 
