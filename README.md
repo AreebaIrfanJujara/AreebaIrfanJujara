@@ -40,3 +40,4 @@ I have a deep passion for collaborative work and hands-on learning. I am activel
   <i>"Committed to technical precision, continuous learning, and collaborative growth."</i>
 </p>
 
+
