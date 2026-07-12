@@ -1,30 +1,58 @@
-# Hi there, I'm Areeba! 👋✨
+# <p align="center">✨ Welcome to Areeba's Tech Space! ✨</p>
 
-Welcome to my digital space! I am a passionate tech explorer bridging the worlds of **Python**, **C++**, and **AI**, with my sights set on the future of **Robotics**. 
-
-More than just writing code, I love **connecting with people, collaborating on ideas, and building technology that serves communities.** I believe in continuous growth, continuous learning, and lifting others up as we climb.
-
-> ### ⚡ "As long as that heart beats, there is no reason to give up." 
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌟 My Journey & Philosophy
-- 🔭 **Current Focus:** Deepening my knowledge in AI pipelines and C++ foundations.
-- 🌱 **Growth Mindset:** Still learning, still growing, and always remaining curious.
-- 🤝 **Collaboration:** I love working in teams! If you want to talk tech or team up, let's connect.
-- 💬 **Ask Me About:** Anything I've built so far, or let's brainstorm a new idea together.
+## 💖 My Core Philosophy
 
-## 🛠️ Tech Toolbox & Exploration
-- **Languages:** Python 🐍, C++ ⚙️
-- **Domains:** Artificial Intelligence, Machine Learning, Computer Vision
-- **Interests:** Robotics hardware, collaborative software engineering, open-source projects
+<blockquote>
+  <p align="center">
+    <samp>
+      <strong>⚡ "As long as that heart beats, there is no reason to give up." ⚡</strong>
+    </samp>
+  </p>
+</blockquote>
 
-## 📊 My Growth Tracker
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
+<p align="center">
+  I am a passionate tech explorer bridging the worlds of <b>Python</b>, <b>C++</b>, and <b>AI</b>, with my sights set on the future of <b>Robotics</b>. More than just writing code, I love connecting with people, collaborating on ideas, and building technology that serves communities. I believe in continuous growth, continuous learning, and lifting others up as we climb.🌱
 </p>
 
+---
+
+## 🛠️ My Vibrant Tech Stack
+
+<p align="center">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="AI" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+## 📈 My Growth Tracker
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 📬 Let's Connect & Build Together!
-- 💼 [LinkedIn](areeba-irfan-jujara-208932399)
-- 📧 [Email](mailto:jujaraareeba@gmail.com)
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jujaraareeba@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  🌱 <i>Still learning, still growing, and always remaining curious.</i>
+</p>
