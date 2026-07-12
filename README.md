@@ -1,58 +1,27 @@
-<div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
+# Areeba Irfan Jujara | Robotics Software Engineer (In Training)
 
-  <br />
-
-  <!-- Animated Typing Subtitle -->
-  <img src="https://demolab.com" alt="Typing Subtitle" />
-</div>
+### 📬 Core Philosophy
+> [!TIP]
+> **"As long as the heart beats, there is no reason to give up."**  
+> _Focus: C++, Python, Robotics, AI, & Team Collaboration._
 
 ---
 
-### 📝 Executive Summary
-I am an aspiring **Robotics Software Engineer** focusing on **C++**, **Python**, and **AI**. I am looking for mentorship and collaborative opportunities to build innovative systems. 🚀
+### 📝 Summary
+Aspiring Robotics Software Engineer proficient in **C++** and **Python** for intelligent systems. Passionate about AI, control algorithms, and engineering for human-centered solutions. Actively seeking mentorship and team-based opportunities. 🚀
 
 ---
 
-### 🛠️ Technical Domain & Areas of Focus
-
-<div align="center">
-
-  #### 💻 Software Core
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Linux">
-
-  #### 🧠 Intelligence Systems
-  <img src="https://shields.io" alt="Machine Learning">
-  <img src="https://shields.io" alt="OpenCV">
-  <img src="https://shields.io" alt="Neural Networks">
-
-  #### 🤖 Robotics Engineering
-  <img src="https://shields.io" alt="ROS">
-  <img src="https://shields.io" alt="Autonomous Systems">
-  <img src="https://shields.io" alt="Embedded Logic">
-
-</div>
+### 🛠️ Key Skills
+* ![C++](https://shields.io)
+* ![Python](https://shields.io)
+* ![Linux](https://shields.io)
+* ![AI](https://shields.io)
+* ![OpenCV](https://shields.io)
+* ![ROS](https://shields.io)
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 📬 Connections
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jujaraareeba@gmail.com">
-    <img src="https://shields.io" alt="Email" height="40">
-  </a>
-</div>
+### 📬 Connect
+* 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
+* 📧 **Email:** [jujaraareeba@gmail.com](mailto:jujaraareeba@gmail.com)
