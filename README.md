@@ -1,27 +1,15 @@
 # Areeba Irfan Jujara | Robotics Software Engineer (In Training)
 
-### 📬 Core Philosophy
-> [!TIP]
-> **"As long as the heart beats, there is no reason to give up."**  
-> _Focus: C++, Python, Robotics, AI, & Team Collaboration._
+> "As long as the heart beats, there is no reason to give up."
 
----
+### 📝 Profile Summary
+Aspiring Robotics Software Engineer focused on C++, Python, AI, and ROS. Passionate about collaborative engineering, seeking mentorship and opportunities to build impactful, human-centric systems.
 
-### 📝 Summary
-Aspiring Robotics Software Engineer proficient in **C++** and **Python** for intelligent systems. Passionate about AI, control algorithms, and engineering for human-centered solutions. Actively seeking mentorship and team-based opportunities. 🚀
+### 🛠️ Technical Domain
+* **Languages/Systems:** C++, Python, Linux, Data Structures & Algorithms
+* **AI/Robotics:** Machine Learning, Computer Vision (OpenCV), ROS (Robot Operating System)
+* **Collaboration:** Team-focused, actively seeking technical mentorship
 
----
-
-### 🛠️ Key Skills
-* ![C++](https://shields.io)
-* ![Python](https://shields.io)
-* ![Linux](https://shields.io)
-* ![AI](https://shields.io)
-* ![OpenCV](https://shields.io)
-* ![ROS](https://shields.io)
-
----
-
-### 📬 Connect
-* 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
-* 📧 **Email:** [jujaraareeba@gmail.com](mailto:jujaraareeba@gmail.com)
+### 📬 Connect With Me
+* 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/areeba-irfan-jujara-208932399/)
+* 📧 **Direct Email:** [Contact via Email](mailto:jujaraareeba@://gmail.com)
