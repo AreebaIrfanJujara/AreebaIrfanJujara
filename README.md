@@ -36,8 +36,11 @@ I have a deep passion for collaborative work and hands-on learning. I am activel
 
 ### 📬 Professional Connections
 
-* 💼 **Connect with me on LinkedIn:** [Click here to view my LinkedIn Profile](www.linkedin.com/in/areeba-irfan-jujara-208932399)
-* 📧 **Send me a direct email:** [Click here to drop a message](mailto:jujaraareeba@gmail.com)
+* 💼 **Connect with me on LinkedIn:** 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-irfan-jujara-208932399)
+
+* 📧 **Send me a direct email:** 
+  [![Email](https://shields.io)](mailto:jujaraareeba@gmail.com)
 
 
 
