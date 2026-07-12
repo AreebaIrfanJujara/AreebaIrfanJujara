@@ -1,58 +1,42 @@
-# <p align="center">✨ Welcome to Areeba's Tech Space! ✨</p>
+# <p align="center">Areeba Irfan Jujara | Robotics Software Engineer (In Training)</p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://demolab.com.+❤️" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💖 My Core Philosophy
+### 📝 Executive Summary
+I am an aspiring **Robotics Software Engineer** specializing in performance-critical software development using **C++** and intelligent systems prototyping with **Python**. My technical journey focuses on mastering the intersection of low-level software architecture, **Artificial Intelligence**, and robotics control algorithms. 
 
-<blockquote>
-  <p align="center">
-    <samp>
-      <strong>⚡ "As long as that heart beats, there is no reason to give up." ⚡</strong>
-    </samp>
-  </p>
-</blockquote>
-
-<p align="center">
-  I am a passionate tech explorer bridging the worlds of <b>Python</b>, <b>C++</b>, and <b>AI</b>, with my sights set on the future of <b>Robotics</b>. More than just writing code, I love connecting with people, collaborating on ideas, and building technology that serves communities. I believe in continuous growth, continuous learning, and lifting others up as we climb.🌱
-</p>
+I have a deep passion for collaborative work and hands-on learning. I am actively seeking out **technical mentorship opportunities to work alongside and learn from experienced professionals in real-world team environments**. I am committed to building engineering systems that directly serve human communities. 🚀
 
 ---
 
-## 🛠️ My Vibrant Tech Stack
+### 🛠️ Technical Domain & Areas of Focus
 
-<p align="center">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="AI" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-## 📈 My Growth Tracker
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
-</p>
+```👁️‍🗨️
+💻 Software Core       -->  [ Python ]  |  [ C++ (OOP / STL) ]  |  [ Linux Systems ]
+🧠 Intelligence Systems -->  [ Machine Learning ]  |  [ Computer Vision ]  |  [ Data Structures ]
+🤖 Robotics Engineering -->  [ Autonomous Systems ] |  [ Hardware Integration ] |  [ Embedded Logic ]
+🤝 Collaboration & Growth->  [ Team Projects ]  |  [ Mentorship & Learning ] |  [ Serving Communities ]
+```
 
 ---
 
-## 📬 Let's Connect & Build Together!
+### 📬 Professional Connections
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:jujaraareeba@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  🌱 <i>Still learning, still growing, and always remaining curious.</i>
+  <i>"Committed to technical precision, continuous learning, and collaborative growth."</i>
 </p>
+
