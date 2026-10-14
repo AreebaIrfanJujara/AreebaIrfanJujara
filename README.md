@@ -39,4 +39,4 @@ My goal is to transition into the cyber defense space, and I am actively seeking
 ### 📬 Connect with Me
 
 *   💼 **LinkedIn:** Areeba Irfan Jujara
-*   📧 **Direct Email:** [jujaraareeba@gmail.com](mailto:jujaraareeba@gmail.com)
+*   📧 **Direct Email:** [aijujara@gmail.com](mailto:aijujara@gmail.com)
